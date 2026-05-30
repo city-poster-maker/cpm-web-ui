@@ -1,2 +1,6 @@
 # dependecies
 /node_modules
+
+# next
+/.next
+next-env.d.ts
